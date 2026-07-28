@@ -1,3 +1,8 @@
+---
+layout: default
+title: Flujos de uso
+---
+
 # Flujos de uso
 
 ## Flujo típico de jornada agrícola

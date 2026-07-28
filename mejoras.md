@@ -1,3 +1,8 @@
+---
+layout: default
+title: Mejoras implementadas
+---
+
 > Parte de la [documentación Lineal](index.md). También disponible en la raíz como `MEJORAS_IMPLEMENTADAS.md`.
 
 # Mejoras Implementadas en el Proyecto Lineal

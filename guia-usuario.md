@@ -1,3 +1,8 @@
+---
+layout: default
+title: Guía de usuario
+---
+
 > Parte de la [documentación Lineal](index.md). También disponible en la raíz como `LINEAL_DOCUMENTATION.md`.
 
 # 📱 LINEAL - APLICACIÓN AGRÍCOLA PROFESIONAL

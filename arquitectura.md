@@ -1,3 +1,8 @@
+---
+layout: default
+title: Arquitectura
+---
+
 # Arquitectura
 
 ## Capas de la aplicación

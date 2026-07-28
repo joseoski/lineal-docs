@@ -1,3 +1,8 @@
+---
+layout: default
+title: Inicio
+---
+
 # Documentación Lineal
 
 Documentación pública de [Lineal](https://github.com/joseoski/lineal) — app Flutter de agricultura de precisión.

@@ -1,3 +1,8 @@
+---
+layout: default
+title: Modos de operación
+---
+
 # Modos de operación
 
 El menú lateral (`ModeMenu`) organiza los modos en cinco categorías.

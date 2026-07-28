@@ -1,3 +1,8 @@
+---
+layout: default
+title: Base de datos
+---
+
 # Base de datos
 
 SQLite local (`fields.db`, versión de esquema **2**), con soporte desktop vía `sqflite_common_ffi`.

@@ -1,3 +1,8 @@
+---
+layout: default
+title: Diagramas
+---
+
 # Diagramas
 
 Índice de diagramas Mermaid de la documentación Lineal. Se renderizan automáticamente en GitHub.

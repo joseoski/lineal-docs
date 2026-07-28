@@ -1,3 +1,8 @@
+---
+layout: default
+title: Documentación Lineal
+---
+
 # Documentación Lineal
 
 Aplicación Flutter de agricultura de precisión: guianza GPS, gestión de terrenos, control de implementos y análisis de datos.
