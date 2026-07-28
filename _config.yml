@@ -1,0 +1,8 @@
+title: Documentación Lineal
+description: Documentación y diagramas de Lineal — agricultura de precisión
+theme: jekyll-theme-cayman
+plugins:
+  - jekyll-relative-links
+relative_links:
+  enabled: true
+  collections: true
