@@ -20,7 +20,7 @@ Documentación pública de [Lineal](https://github.com/joseoski/lineal) — app 
 | [Modos](modos.md) | Menú y estados |
 | [Flujos](flujos.md) | Casos de uso |
 | [Mejoras](mejoras.md) | Refactor implementado |
-| [Diagramas](diagramas/README.md) | Índice de diagramas Mermaid |
+| [Diagramas](diagramas/) | Índice de diagramas Mermaid |
 
 ## Licencia
 

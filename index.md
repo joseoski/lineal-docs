@@ -15,7 +15,7 @@ Aplicación Flutter de agricultura de precisión: guianza GPS, gestión de terre
 | [Modos de operación](modos.md) | Menú, categorías y diagramas de modos |
 | [Flujos de uso](flujos.md) | Casos de uso y flujos operativos |
 | [Mejoras implementadas](mejoras.md) | Refactor de modelos, servicios y widgets |
-| [Diagramas](diagramas/README.md) | Índice de todos los diagramas Mermaid |
+| [Diagramas](diagramas/) | Índice de todos los diagramas Mermaid |
 
 ## Resumen técnico
 
